@@ -8,7 +8,7 @@ class MyApp extends StatelessWidget {
     return new MaterialApp(
       title: 'TabBarView Demo',
       theme: new ThemeData(
-        primarySwatch: Colors.blue,
+        primarySwatch: Colors.amber,
       ),
       home: new MyHomePage(title: 'TabBar Demo'),
     );
